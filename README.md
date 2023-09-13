@@ -1,1 +1,2 @@
-# Image-Gallery.github.io
+# Image_Gallery
+Image Gallery using html &amp; Css
